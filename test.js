@@ -1,1 +1,1 @@
-<script>node run js</script>
+<script>node runj js</script>
