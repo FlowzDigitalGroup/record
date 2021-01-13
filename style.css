@@ -11,7 +11,7 @@ body {
 
 article, footer {
     display: block;
-    max-width: 900px;
+    max-width: 950px;
     min-width: 360px;
     width: 80%;
 }
